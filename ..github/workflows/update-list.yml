@@ -1,0 +1,31 @@
+name: Update Folder List JSON
+
+on:
+  push:
+    branches: [ main ]  # Se déclenche sur la branche main
+  workflow_dispatch:     # Permet de le lancer manuellement
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Crucial pour que l'action puisse modifier le dépôt
+
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      - name: Configurer Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Exécuter le script
+        run: python update_modules_json.py
+
+      - name: Commit et Push des modifications
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add modules.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update modules.json" && git push)
