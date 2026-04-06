@@ -3,9 +3,9 @@ name: Update modules index
 on:
   push:
     paths:
-      - 'modules/**/config.ini'
-      - 'modules/**/lang/**/desc.ini'
-      - 'modules/**/*.png'
+      - '**/config.ini'
+      - '**/lang/**/desc.ini'
+      - '**/*.png'
 
 jobs:
   update:
@@ -20,6 +20,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add modules/modules.json
+          git add modules.json
           git diff --cached --quiet || git commit -m "chore: update modules.json [skip ci]"
           git push
