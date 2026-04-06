@@ -17,7 +17,7 @@ def parse_ini(filepath: str) -> dict:
             # configparser exige une section ; on en ajoute une fictive
             content = "[root]\n" + f.read()
         parser.read_string(content)
-        return dict(parser["root"])
+        return {k: v.strip('"') for k, v in dict(parser["root"]).items()}
     except Exception:
         return {}
 
