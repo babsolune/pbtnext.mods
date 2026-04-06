@@ -84,8 +84,7 @@ def generate_modules_json(addons_dir: str) -> list:
 
 
 def main():
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    addons_dir = os.path.join(script_dir, "modules")
+    addons_dir = os.path.dirname(os.path.abspath(__file__))
 
     if not os.path.isdir(addons_dir):
         print(f"Dossier '{addons_dir}' introuvable.", file=sys.stderr)
