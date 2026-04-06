@@ -1,0 +1,29 @@
+[
+    {
+        "id": "articles",
+        "addon_type": "module",
+        "compatibility": "6.1",
+        "version": "6.1.0",
+        "author": "PHPBoost",
+        "author_mail": "contact@phpboost.com",
+        "author_website": "https://www.phpboost.com",
+        "creation_date": "2013/03/07",
+        "last_update": "2026/04/06",
+        "fa_icon": "far fa-fw fa-file-lines",
+        "hexa_icon": "",
+        "php_version": "",
+        "name": {
+            "french": "Articles",
+            "english": "Articles"
+        },
+        "description": {
+            "french": "Ce module vous permettra de rédiger des articles sur plusieurs pages, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des articles (niveau d'autorisation configurable). Gestion complète de la date de parution.",
+            "english": "This module allows you to write articles on multiple pages, with categories management (and access level). Users can submit articles (configurable auth level). Complete management of publication date."
+        },
+        "genre": {
+            "french": "Contenu",
+            "english": "Content"
+        },
+        "thumbnail": ""
+    }
+]
