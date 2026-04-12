@@ -1121,7 +1121,7 @@
         "php_version": "",
         "name": {
             "english": "Social Networks",
-            "french": ""
+            "french": "Résaux sociaux"
         },
         "description": {
             "english": "This module allows you to add features related to social networks like connecting social networks credentials and link sharing buttons",
@@ -1202,7 +1202,7 @@
         "php_version": "",
         "name": {
             "english": "Steam",
-            "french": ""
+            "french": "Steam"
         },
         "description": {
             "english": "This module allows you to add Steam connection to Social Networks module",
