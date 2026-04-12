@@ -13,16 +13,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Articles",
-            "english": "Articles"
+            "english": "Articles",
+            "french": "Articles"
         },
         "description": {
-            "french": "Ce module vous permettra de rédiger des articles sur plusieurs pages, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des articles (niveau d'autorisation configurable). Gestion complète de la date de parution.",
-            "english": "This module allows you to write articles on multiple pages, with categories management (and access level). Users can submit articles (configurable auth level). Complete management of publication date."
+            "english": "This module allows you to write articles on multiple pages, with categories management (and access level). Users can submit articles (configurable auth level). Complete management of publication date.",
+            "french": "Ce module vous permettra de rédiger des articles sur plusieurs pages, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des articles (niveau d'autorisation configurable). Gestion complète de la date de parution."
         },
         "genre": {
-            "french": "Contenu",
-            "english": "Content"
+            "english": "Content",
+            "french": "Contenu"
         },
         "thumbnail": ""
     },
@@ -40,16 +40,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Module basique",
-            "english": "Basic module"
+            "english": "Basic module",
+            "french": "Module basique"
         },
         "description": {
-            "french": "Ce module vous permet de tester la mise en place d'un module le plus basique possible, qui s'appuie sur les éléments mis en place dans le noyau.",
-            "english": "This module allows you to test the implementation of the most basic module possible, which is based on the elements implemented in the kernel."
+            "english": "This module allows you to test the implementation of the most basic module possible, which is based on the elements implemented in the kernel.",
+            "french": "Ce module vous permet de tester la mise en place d'un module le plus basique possible, qui s'appuie sur les éléments mis en place dans le noyau."
         },
         "genre": {
-            "french": "Contenu",
-            "english": "Content"
+            "english": "Content",
+            "french": "Contenu"
         },
         "thumbnail": ""
     },
@@ -67,16 +67,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Anniversaires",
-            "english": "Birthdays"
+            "english": "Birthdays",
+            "french": "Anniversaires"
         },
         "description": {
-            "french": "Ce module vous permet d'afficher les anniversaires du jour dans un menu. Il est possible d'envoyer un message privé aux membres le jour de leur anniversaire.",
-            "english": "This module lets you display the day birthdays in a menu. It is possible to send a private message to members on their birthday."
+            "english": "This module lets you display the day birthdays in a menu. It is possible to send a private message to members on their birthday.",
+            "french": "Ce module vous permet d'afficher les anniversaires du jour dans un menu. Il est possible d'envoyer un message privé aux membres le jour de leur anniversaire."
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     },
@@ -94,16 +94,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Radiodiffusion",
-            "english": "Broadcast"
+            "english": "Broadcast",
+            "french": "Radiodiffusion"
         },
         "description": {
-            "french": "Ce module vous procure un système de diffusion de radio, avec un lecteur audio exportable et la gestion d'un calendrier de programmation.",
-            "english": "This module provides you a broadcast system, with an exportable audio player and the management of a calendar of programming."
+            "english": "This module provides you a broadcast system, with an exportable audio player and the management of a calendar of programming.",
+            "french": "Ce module vous procure un système de diffusion de radio, avec un lecteur audio exportable et la gestion d'un calendrier de programmation."
         },
         "genre": {
-            "french": "Communication",
-            "english": "Communication"
+            "english": "Communication",
+            "french": "Communication"
         },
         "thumbnail": ""
     },
@@ -121,16 +121,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Rapport de bugs",
-            "english": "Bugtracker"
+            "english": "Bugtracker",
+            "french": "Rapport de bugs"
         },
         "description": {
-            "french": "Ce module vous permettra de gérer les anomalies et les demandes d'évolution (voir d'autres choses) sur votre site, avec gestion des catégories et niveau d'accès configurables. Gestion complète de l'historique des demandes.",
-            "english": "This module allows you to manage anomalies and evolution requests (but also what you want) on your site, with category management and configurable level access. Complete management of each demand history."
+            "english": "This module allows you to manage anomalies and evolution requests (but also what you want) on your site, with category management and configurable level access. Complete management of each demand history.",
+            "french": "Ce module vous permettra de gérer les anomalies et les demandes d'évolution (voir d'autres choses) sur votre site, avec gestion des catégories et niveau d'accès configurables. Gestion complète de l'historique des demandes."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -148,16 +148,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Calendrier",
-            "english": "Calendar"
+            "english": "Calendar",
+            "french": "Calendrier"
         },
         "description": {
-            "french": "Ce module est un calendrier avec ajout d'événements possible. Les utilisateurs peuvent ajouter des événements (gestion du niveau d'accès).",
-            "english": "This module is a fully featured event calendar. Users can post events (configurable auth access)"
+            "english": "This module is a fully featured event calendar. Users can post events (configurable auth access)",
+            "french": "Ce module est un calendrier avec ajout d'événements possible. Les utilisateurs peuvent ajouter des événements (gestion du niveau d'accès)."
         },
         "genre": {
-            "french": "Communication",
-            "english": "Communication"
+            "english": "Communication",
+            "french": "Communication"
         },
         "thumbnail": ""
     },
@@ -175,16 +175,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Menus Catégories",
-            "english": "Categories Menus"
+            "english": "Categories Menus",
+            "french": "Menus Catégories"
         },
         "description": {
-            "french": "Ce module vous permet d'afficher la liste des catégories dans un menu pour chaque module. Possibilité de filtrer l'affichage du menu sur la page du module uniquement dans la configuration de chaque menu par exemple.",
-            "english": "This module allows you to display the list of categories in a menu for each module. Possibility to filter the display of the menu on the module page only in the configuration of each menu for example."
+            "english": "This module allows you to display the list of categories in a menu for each module. Possibility to filter the display of the menu on the module page only in the configuration of each menu for example.",
+            "french": "Ce module vous permet d'afficher la liste des catégories dans un menu pour chaque module. Possibilité de filtrer l'affichage du menu sur la page du module uniquement dans la configuration de chaque menu par exemple."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -202,16 +202,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Connexion",
-            "english": "Connect"
+            "english": "Connect",
+            "french": "Connexion"
         },
         "description": {
-            "french": "Ce module affiche une formulaire de connexion au site.",
-            "english": "This module displays the login form."
+            "english": "This module displays the login form.",
+            "french": "Ce module affiche une formulaire de connexion au site."
         },
         "genre": {
-            "french": "Gestion",
-            "english": "Management"
+            "english": "Management",
+            "french": "Gestion"
         },
         "thumbnail": ""
     },
@@ -229,16 +229,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Contact",
-            "english": "Contact"
+            "english": "Contact",
+            "french": "Contact"
         },
         "description": {
-            "french": "Ce module permet à vos membres de vous contacter. Les champs à afficher dans le formulaire sont configurables.",
-            "english": "This module allows your members to contact you with a simple form. The form fields are manageable."
+            "english": "This module allows your members to contact you with a simple form. The form fields are manageable.",
+            "french": "Ce module permet à vos membres de vous contacter. Les champs à afficher dans le formulaire sont configurables."
         },
         "genre": {
-            "french": "Communication",
-            "english": "Communication"
+            "english": "Communication",
+            "french": "Communication"
         },
         "thumbnail": ""
     },
@@ -256,16 +256,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Compte à rebours",
-            "english": "Countdown"
+            "english": "Countdown",
+            "french": "Compte à rebours"
         },
         "description": {
-            "french": "Ce mini module permet d'afficher un compte à rebours.",
-            "english": "This mini module allows to display a countdown on your site."
+            "english": "This mini module allows to display a countdown on your site.",
+            "french": "Ce mini module permet d'afficher un compte à rebours."
         },
         "genre": {
-            "french": "Communication",
-            "english": "Communication"
+            "english": "Communication",
+            "french": "Communication"
         },
         "thumbnail": ""
     },
@@ -283,16 +283,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Personnalisation",
-            "english": "Customization"
+            "english": "Customization",
+            "french": "Personnalisation"
         },
         "description": {
-            "french": "Ce module vous permet de personnaliser l'interface de votre site, le favicon et modifier les fichiers CSS en ligne",
-            "english": "This module allows you to customize the interface of your site, the favicon and edit CSS files online"
+            "english": "This module allows you to customize the interface of your site, the favicon and edit CSS files online",
+            "french": "Ce module vous permet de personnaliser l'interface de votre site, le favicon et modifier les fichiers CSS en ligne"
         },
         "genre": {
-            "french": "Design",
-            "english": "Design"
+            "english": "Design",
+            "french": "Design"
         },
         "thumbnail": ""
     },
@@ -310,16 +310,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Base de données",
-            "english": "Database manager"
+            "english": "Database manager",
+            "french": "Base de données"
         },
         "description": {
-            "french": "Ce module vous procure un système complet de gestion de base de données.",
-            "english": "This module provides you a complete database manager"
+            "english": "This module provides you a complete database manager",
+            "french": "Ce module vous procure un système complet de gestion de base de données."
         },
         "genre": {
-            "french": "Gestion",
-            "english": "Management"
+            "english": "Management",
+            "french": "Gestion"
         },
         "thumbnail": ""
     },
@@ -337,16 +337,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Dev Tools",
-            "english": "Dev Tools"
+            "english": "Dev Tools",
+            "french": "Dev Tools"
         },
         "description": {
-            "french": "Gestion des modules PHPBoost : état local, dépôts GitHub configurables, installation/activation/désinstallation.",
-            "english": "Gestion des modules PHPBoost : état local, dépôts GitHub configurables, installation/activation/désinstallation."
+            "english": "Gestion des modules PHPBoost : état local, dépôts GitHub configurables, installation/activation/désinstallation.",
+            "french": "Gestion des modules PHPBoost : état local, dépôts GitHub configurables, installation/activation/désinstallation."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -364,16 +364,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Dictionnaire",
-            "english": "Dictionary"
+            "english": "Dictionary",
+            "french": "Dictionnaire"
         },
         "description": {
-            "french": "Ce module vous permet d'afficher des définitions de mots avec un filtrage par lettres et/ou par catégories",
-            "english": "This module allows you to display word definitions with letter and / or category filtering"
+            "english": "This module allows you to display word definitions with letter and / or category filtering",
+            "french": "Ce module vous permet d'afficher des définitions de mots avec un filtrage par lettres et/ou par catégories"
         },
         "genre": {
-            "french": "Contenu",
-            "english": "Content"
+            "english": "Content",
+            "french": "Contenu"
         },
         "thumbnail": ""
     },
@@ -391,16 +391,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Discord - En ligne",
-            "english": "Discord viewer"
+            "english": "Discord viewer",
+            "french": "Discord - En ligne"
         },
         "description": {
-            "french": "Ce module vous laisse à disposition dans l'administration, un menu permettant d'afficher la liste des utilisateurs connectés à un serveur discord.",
-            "english": "This module lets you provided in the administration, a menu to display the online users from a Discord server."
+            "english": "This module lets you provided in the administration, a menu to display the online users from a Discord server.",
+            "french": "Ce module vous laisse à disposition dans l'administration, un menu permettant d'afficher la liste des utilisateurs connectés à un serveur discord."
         },
         "genre": {
-            "french": "Communication",
-            "english": "Communication"
+            "english": "Communication",
+            "french": "Communication"
         },
         "thumbnail": ""
     },
@@ -418,16 +418,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Téléchargements",
-            "english": "Downloads"
+            "english": "Downloads",
+            "french": "Téléchargements"
         },
         "description": {
-            "french": "Ce module permet à vos membres de télécharger toute sorte de fichiers, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des fichiers (niveau d'autorisation configurable). Gestion complète de la date de parution.",
-            "english": "This module allows your members to download files from your website, with category management (and access level). Users can submit files links (configurable authorization level). Complete management of publication date."
+            "english": "This module allows your members to download files from your website, with category management (and access level). Users can submit files links (configurable authorization level). Complete management of publication date.",
+            "french": "Ce module permet à vos membres de télécharger toute sorte de fichiers, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des fichiers (niveau d'autorisation configurable). Gestion complète de la date de parution."
         },
         "genre": {
-            "french": "Media",
-            "english": "Media"
+            "english": "Media",
+            "french": "Media"
         },
         "thumbnail": ""
     },
@@ -445,16 +445,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Personnalisation CSS",
-            "english": "EasyCss"
+            "english": "EasyCss",
+            "french": "Personnalisation CSS"
         },
         "description": {
-            "french": "Module facilitant la personnalisation des CSS du thème",
-            "english": "Make easy customize CSS files"
+            "english": "Make easy customize CSS files",
+            "french": "Module facilitant la personnalisation des CSS du thème"
         },
         "genre": {
-            "french": "Design",
-            "english": "Design"
+            "english": "Design",
+            "french": "Design"
         },
         "thumbnail": ""
     },
@@ -472,16 +472,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "F.A.Q",
-            "english": "F.A.Q"
+            "english": "F.A.Q",
+            "french": "F.A.Q"
         },
         "description": {
-            "french": "Ce module vous permet de créer une Foire Aux Questions dans laquelle vous pourrez apporter une réponse aux questions fréquemment posées.",
-            "english": "This module creates a Frequently Asked Questions page."
+            "english": "This module creates a Frequently Asked Questions page.",
+            "french": "Ce module vous permet de créer une Foire Aux Questions dans laquelle vous pourrez apporter une réponse aux questions fréquemment posées."
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     },
@@ -499,16 +499,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Flux RSS",
-            "english": "RSS Feed"
+            "english": "RSS Feed",
+            "french": "Flux RSS"
         },
         "description": {
-            "french": "Ce module vous permet de proposer des flux rss issus d'autres sites internet, avec gestion des catégories (et niveau d'accès). Les membres peuvent proposer des flux (niveau d'autorisation configurable).",
-            "english": "This module allows you to offer rss feed from other websites, with category management (and access level). Members can propose flux (configurable authorization level) ."
+            "english": "This module allows you to offer rss feed from other websites, with category management (and access level). Members can propose flux (configurable authorization level) .",
+            "french": "Ce module vous permet de proposer des flux rss issus d'autres sites internet, avec gestion des catégories (et niveau d'accès). Les membres peuvent proposer des flux (niveau d'autorisation configurable)."
         },
         "genre": {
-            "french": "Communication",
-            "english": "Communication"
+            "english": "Communication",
+            "french": "Communication"
         },
         "thumbnail": ""
     },
@@ -526,16 +526,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Galerie",
-            "english": "Gallery"
+            "english": "Gallery",
+            "french": "Galerie"
         },
         "description": {
-            "french": "Ce module vous procure une galerie très complète, génération de miniatures, incrustation de logo, upload de masse, etc...",
-            "english": "This provides you a fully customizable gallery, thumbnails, massive upload, etc."
+            "english": "This provides you a fully customizable gallery, thumbnails, massive upload, etc.",
+            "french": "Ce module vous procure une galerie très complète, génération de miniatures, incrustation de logo, upload de masse, etc..."
         },
         "genre": {
-            "french": "Media",
-            "english": "Media"
+            "english": "Media",
+            "french": "Media"
         },
         "thumbnail": ""
     },
@@ -553,16 +553,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Google Analytics",
-            "english": "Google Analytics"
+            "english": "Google Analytics",
+            "french": "Google Analytics"
         },
         "description": {
-            "french": "Module permettant d'intégrer facilement le service de statistiques Google Analytics.",
-            "english": "This module allows you to easily integrate Google Analytics statistics service."
+            "english": "This module allows you to easily integrate Google Analytics statistics service.",
+            "french": "Module permettant d'intégrer facilement le service de statistiques Google Analytics."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -580,16 +580,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "GoogleMaps",
-            "english": "GoogleMaps"
+            "english": "GoogleMaps",
+            "french": "GoogleMaps"
         },
         "description": {
-            "french": "Ce module vous permet d'afficher des champs adresse et des cartes Google Map dans certains modules.",
-            "english": "This module allows you display address fields and GoogleMap maps in certain modules."
+            "english": "This module allows you display address fields and GoogleMap maps in certain modules.",
+            "french": "Ce module vous permet d'afficher des champs adresse et des cartes Google Map dans certains modules."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -607,16 +607,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Livre d'or",
-            "english": "Guestbook"
+            "english": "Guestbook",
+            "french": "Livre d'or"
         },
         "description": {
-            "french": "Ce module permet aux visiteurs et aux membres de donner leur avis sur le site.",
-            "english": "This module allows visitors and members to give their opinion about the website."
+            "english": "This module allows visitors and members to give their opinion about the website.",
+            "french": "Ce module permet aux visiteurs et aux membres de donner leur avis sur le site."
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     },
@@ -634,16 +634,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Historique",
-            "english": "History"
+            "english": "History",
+            "french": "Historique"
         },
         "description": {
-            "french": "Ce module vous permet d'enregistrer les différentes actions effectuées par les utilisateurs et administrateurs du site.",
-            "english": "This module allows you to record the various actions carried out by the users and administrators of the site."
+            "english": "This module allows you to record the various actions carried out by the users and administrators of the site.",
+            "french": "Ce module vous permet d'enregistrer les différentes actions effectuées par les utilisateurs et administrateurs du site."
         },
         "genre": {
-            "french": "Gestion",
-            "english": "Management"
+            "english": "Management",
+            "french": "Gestion"
         },
         "thumbnail": ""
     },
@@ -661,16 +661,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Page d'accueil personnalisée",
-            "english": "Custom Home page"
+            "english": "Custom Home page",
+            "french": "Page d'accueil personnalisée"
         },
         "description": {
-            "french": "Ce module vous permet de créer une page d'accueil personnalisée (HTML/CSS/PHP) et de la définir en tant que page d'accueil du site",
-            "english": "This module allows you to build a custom home page (HTML/CSS/PHP) and set it as home page site"
+            "english": "This module allows you to build a custom home page (HTML/CSS/PHP) and set it as home page site",
+            "french": "Ce module vous permet de créer une page d'accueil personnalisée (HTML/CSS/PHP) et de la définir en tant que page d'accueil du site"
         },
         "genre": {
-            "french": "Agencement",
-            "english": "Arrangement"
+            "english": "Arrangement",
+            "french": "Agencement"
         },
         "thumbnail": ""
     },
@@ -688,16 +688,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Menu choix de langue",
-            "english": "Menu language choice"
+            "english": "Menu language choice",
+            "french": "Menu choix de langue"
         },
         "description": {
-            "french": "Ce module vous laisse à disposition dans l'administration, un menu permettant de switcher entre vos langues.",
-            "english": "This module lets you provided in the administration, a menu to switch between your langs."
+            "english": "This module lets you provided in the administration, a menu to switch between your langs.",
+            "french": "Ce module vous laisse à disposition dans l'administration, un menu permettant de switcher entre vos langues."
         },
         "genre": {
-            "french": "Administration",
-            "english": "Administration"
+            "english": "Administration",
+            "french": "Administration"
         },
         "thumbnail": ""
     },
@@ -715,16 +715,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Derniers commentaires",
-            "english": "Latest Comments"
+            "english": "Latest Comments",
+            "french": "Derniers commentaires"
         },
         "description": {
-            "french": "Ce module vous laisse à disposition dans l'administration, un menu permettant d'afficher un lecteur rss.",
-            "english": "This module lets you provided in the administration, a menu to display the latest comments on your site."
+            "english": "This module lets you provided in the administration, a menu to display the latest comments on your site.",
+            "french": "Ce module vous laisse à disposition dans l'administration, un menu permettant d'afficher un lecteur rss."
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     },
@@ -742,16 +742,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Multimédia",
-            "english": "Multimedia"
+            "english": "Multimedia",
+            "french": "Multimédia"
         },
         "description": {
-            "french": "Ce module vous permettra d'afficher des vidéos et de la musique sur votre site PHPBoost !",
-            "english": "This module provides you a movie and music gallery on your website!"
+            "english": "This module provides you a movie and music gallery on your website!",
+            "french": "Ce module vous permettra d'afficher des vidéos et de la musique sur votre site PHPBoost !"
         },
         "genre": {
-            "french": "Media",
-            "english": "Media"
+            "english": "Media",
+            "french": "Media"
         },
         "thumbnail": ""
     },
@@ -769,16 +769,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Actualités",
-            "english": "News"
+            "english": "News",
+            "french": "Actualités"
         },
         "description": {
-            "french": "Ce module vous permet de gérer les actualités de votre site. Possibilité de les classer dans des catégories et de définir la date de parution.",
-            "english": "This module allows you to manage the news of your site. Possibility to classify them in categories and to define the date of publication."
+            "english": "This module allows you to manage the news of your site. Possibility to classify them in categories and to define the date of publication.",
+            "french": "Ce module vous permet de gérer les actualités de votre site. Possibilité de les classer dans des catégories et de définir la date de parution."
         },
         "genre": {
-            "french": "Contenu",
-            "english": "Content"
+            "english": "Content",
+            "french": "Contenu"
         },
         "thumbnail": ""
     },
@@ -796,16 +796,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Newsletter",
-            "english": "Newsletter"
+            "english": "Newsletter",
+            "french": "Newsletter"
         },
         "description": {
-            "french": "Ce module vous procure un système de newsletter avec 3 types d'envois différents.",
-            "english": "This module provides you a newsletter system, with 3 sending methods. Report to the documentation for further informations."
+            "english": "This module provides you a newsletter system, with 3 sending methods. Report to the documentation for further informations.",
+            "french": "Ce module vous procure un système de newsletter avec 3 types d'envois différents."
         },
         "genre": {
-            "french": "Communication",
-            "english": "Communication"
+            "english": "Communication",
+            "french": "Communication"
         },
         "thumbnail": ""
     },
@@ -823,16 +823,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "En ligne",
-            "english": "Online"
+            "english": "Online",
+            "french": "En ligne"
         },
         "description": {
-            "french": "Ce module affiche la liste des membres connectés sur votre site et leur localisation, ce nombre peut être limité dans la configuration.",
-            "english": "This module provides you an online mini module which shows who is actually online and where they are. You may also limit the number of members shown."
+            "english": "This module provides you an online mini module which shows who is actually online and where they are. You may also limit the number of members shown.",
+            "french": "Ce module affiche la liste des membres connectés sur votre site et leur localisation, ce nombre peut être limité dans la configuration."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -850,16 +850,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Sondages",
-            "english": "Poll"
+            "english": "Poll",
+            "french": "Sondages"
         },
         "description": {
-            "french": "Ce module vous permettra de créer des sondages avec catégories et gestion des autorisations. Gestion de mini sondages en mini module.",
-            "english": "This module allows you to create polls with categories and authorization level management. Mini poll manage in mini module"
+            "english": "This module allows you to create polls with categories and authorization level management. Mini poll manage in mini module",
+            "french": "Ce module vous permettra de créer des sondages avec catégories et gestion des autorisations. Gestion de mini sondages en mini module."
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     },
@@ -877,16 +877,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Citations",
-            "english": "Quotes"
+            "english": "Quotes",
+            "french": "Citations"
         },
         "description": {
-            "french": "Ce module permet de proposer des citations. Possibilité de contribution pour les membres et possibilité de classer les citations par catégorie.",
-            "english": "This module allows to offer quotes. Contribution possibility for member and possibility of classifying the citations by category."
+            "english": "This module allows to offer quotes. Contribution possibility for member and possibility of classifying the citations by category.",
+            "french": "Ce module permet de proposer des citations. Possibilité de contribution pour les membres et possibilité de classer les citations par catégorie."
         },
         "genre": {
-            "french": "Contenu",
-            "english": "Content"
+            "english": "Content",
+            "french": "Contenu"
         },
         "thumbnail": ""
     },
@@ -904,16 +904,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "ReCaptcha",
-            "english": "ReCaptcha"
+            "english": "ReCaptcha",
+            "french": "ReCaptcha"
         },
         "description": {
-            "french": "Ce module vous permet d'utiliser le système ReCaptcha pour la vérification visuelle",
-            "english": "This module allows you to use the system ReCaptcha for visual verification"
+            "english": "This module allows you to use the system ReCaptcha for visual verification",
+            "french": "Ce module vous permet d'utiliser le système ReCaptcha pour la vérification visuelle"
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -931,16 +931,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Recettes",
-            "english": "Recipes"
+            "english": "Recipes",
+            "french": "Recettes"
         },
         "description": {
-            "french": "Ce module permet d'afficher des recettes, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des recettes (niveau d'autorisation configurable). Gestion complète de la date de parution.",
-            "english": "This module allows to show recipes, with category management (and access level). Users can submit recipes (configurable authorization level). Complete management of publication date."
+            "english": "This module allows to show recipes, with category management (and access level). Users can submit recipes (configurable authorization level). Complete management of publication date.",
+            "french": "Ce module permet d'afficher des recettes, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des recettes (niveau d'autorisation configurable). Gestion complète de la date de parution."
         },
         "genre": {
-            "french": "Contenu",
-            "english": "Content"
+            "english": "Content",
+            "french": "Contenu"
         },
         "thumbnail": ""
     },
@@ -958,16 +958,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Bac à sable",
-            "english": "Sandbox"
+            "english": "Sandbox",
+            "french": "Bac à sable"
         },
         "description": {
-            "french": "Ce module est un dépôt de code de test pour l'aide au développement de nouveaux éléments.",
-            "english": "This module is aimed at containing some code you want to test while you are developing new elements."
+            "english": "This module is aimed at containing some code you want to test while you are developing new elements.",
+            "french": "Ce module est un dépôt de code de test pour l'aide au développement de nouveaux éléments."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -985,16 +985,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Recherche",
-            "english": "Search"
+            "english": "Search",
+            "french": "Recherche"
         },
         "description": {
-            "french": "Ce module vous procure un système de recherche complet à travers tout le site auquel les membres peuvent très facilement accéder",
-            "english": "Your members will be able to search contents easily into the whole site"
+            "english": "Your members will be able to search contents easily into the whole site",
+            "french": "Ce module vous procure un système de recherche complet à travers tout le site auquel les membres peuvent très facilement accéder"
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -1012,16 +1012,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Statut des serveurs",
-            "english": "Servers status"
+            "english": "Servers status",
+            "french": "Statut des serveurs"
         },
         "description": {
-            "french": "Ce module permet de vérifier la disponibilité de vos serveurs.",
-            "english": "This module allows to check the availability of your servers."
+            "english": "This module allows to check the availability of your servers.",
+            "french": "Ce module permet de vérifier la disponibilité de vos serveurs."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -1039,16 +1039,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Discussion",
-            "english": "Shoutbox"
+            "english": "Shoutbox",
+            "french": "Discussion"
         },
         "description": {
-            "french": "Ce module vous procure une boite de discussion entre les membres.",
-            "english": "This module provides you a shoutbox system."
+            "english": "This module provides you a shoutbox system.",
+            "french": "Ce module vous procure une boite de discussion entre les membres."
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     },
@@ -1066,16 +1066,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Plan du site",
-            "english": "Sitemap"
+            "english": "Sitemap",
+            "french": "Plan du site"
         },
         "description": {
-            "french": "Ce module vous permet de construire le plan de votre site ainsi que de générer le fichier sitemap.xml permettant aux moteurs de recherche de mieux référencer votre site.",
-            "english": "This modules enables you to construct a map of your site as well as the search engines sitemap.xml"
+            "english": "This modules enables you to construct a map of your site as well as the search engines sitemap.xml",
+            "french": "Ce module vous permet de construire le plan de votre site ainsi que de générer le fichier sitemap.xml permettant aux moteurs de recherche de mieux référencer votre site."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -1093,16 +1093,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Petites Annonces",
-            "english": "Smallads"
+            "english": "Smallads",
+            "french": "Petites Annonces"
         },
         "description": {
-            "french": "Ce module vous permettra de rédiger des annonces, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des annonces (niveau d'autorisation configurable). Gestion complète de la date de parution.",
-            "english": "This module allows you to write items, with categories management (and access level). Users can submit items (configurable auth level). Complete management of publication date."
+            "english": "This module allows you to write items, with categories management (and access level). Users can submit items (configurable auth level). Complete management of publication date.",
+            "french": "Ce module vous permettra de rédiger des annonces, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des annonces (niveau d'autorisation configurable). Gestion complète de la date de parution."
         },
         "genre": {
-            "french": "Contenu",
-            "english": "Content"
+            "english": "Content",
+            "french": "Contenu"
         },
         "thumbnail": ""
     },
@@ -1115,21 +1115,21 @@
         "author_mail": "contact@phpboost.com",
         "author_website": "https://www.phpboost.com",
         "creation_date": "2018/01/05",
-        "last_update": "2023/01/27",
+        "last_update": "2026/04/11",
         "fa_icon": "fa fa-fw fa-share-nodes",
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "",
-            "english": "Social Networks"
+            "english": "Social Networks",
+            "french": ""
         },
         "description": {
-            "french": "Ce module vous permet d'ajouter des fonctionnalités liés aux réseaux sociaux comme la connexion avec les identifiants des réseaux sociaux et des boutons de partage de lien",
-            "english": "This module allows you to add features related to social networks like connecting social networks credentials and link sharing buttons"
+            "english": "This module allows you to add features related to social networks like connecting social networks credentials and link sharing buttons",
+            "french": "Ce module vous permet d'ajouter des fonctionnalités liés aux réseaux sociaux comme la connexion avec les identifiants des réseaux sociaux et des boutons de partage de lien"
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     },
@@ -1147,16 +1147,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Localisations",
-            "english": "Spots"
+            "english": "Spots",
+            "french": "Localisations"
         },
         "description": {
-            "french": "Ce module vous permet de proposer des localisations (le module GoogleMaps est nécessaire), avec gestion des catégories (et niveau d'accès). Les membres peuvent proposer des endroits (niveau d'autorisation configurable).",
-            "english": "This module allows you to offer spots (the GoogleMaps module is necessary), with category management (and access level). Members can propose spots (configurable authorization level) ."
+            "english": "This module allows you to offer spots (the GoogleMaps module is necessary), with category management (and access level). Members can propose spots (configurable authorization level) .",
+            "french": "Ce module vous permet de proposer des localisations (le module GoogleMaps est nécessaire), avec gestion des catégories (et niveau d'accès). Les membres peuvent proposer des endroits (niveau d'autorisation configurable)."
         },
         "genre": {
-            "french": "Contenu",
-            "english": "Content"
+            "english": "Content",
+            "french": "Contenu"
         },
         "thumbnail": ""
     },
@@ -1174,16 +1174,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Statistiques",
-            "english": "Statistics"
+            "english": "Statistics",
+            "french": "Statistiques"
         },
         "description": {
-            "french": "Ce module vous procure un système de statistiques très complet, de nombreux outils sont à votre disposition.",
-            "english": "This module provides you a fully featured statistics system."
+            "english": "This module provides you a fully featured statistics system.",
+            "french": "Ce module vous procure un système de statistiques très complet, de nombreux outils sont à votre disposition."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -1196,21 +1196,21 @@
         "author_mail": "contact@phpboost.com",
         "author_website": "https://www.phpboost.com",
         "creation_date": "2018/04/22",
-        "last_update": "2023/01/27",
+        "last_update": "2026/04/11",
         "fa_icon": "fab fa-fw fa-steam-symbole",
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "",
-            "english": "Steam"
+            "english": "Steam",
+            "french": ""
         },
         "description": {
-            "french": "Ce module vous permet d'ajouter la connexion avec identifiants Steam au module Réseaux Sociaux",
-            "english": "This module allows you to add Steam connection to Social Networks module"
+            "english": "This module allows you to add Steam connection to Social Networks module",
+            "french": "Ce module vous permet d'ajouter la connexion avec identifiants Steam au module Réseaux Sociaux"
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     },
@@ -1228,16 +1228,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Nuage de tag",
-            "english": "Tag cloud"
+            "english": "Tag cloud",
+            "french": "Nuage de tag"
         },
         "description": {
-            "french": "Ce mini module permet d'afficher un nuage de tag.",
-            "english": "This mini module allows to display a tag cloud on your site."
+            "english": "This mini module allows to display a tag cloud on your site.",
+            "french": "Ce mini module permet d'afficher un nuage de tag."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -1255,16 +1255,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Teamspeak",
-            "english": "Teamspeak"
+            "english": "Teamspeak",
+            "french": "Teamspeak"
         },
         "description": {
-            "french": "Menu pour afficher les informations d'un serveur TS3",
-            "english": "Menu for TS3 server viewer"
+            "english": "Menu for TS3 server viewer",
+            "french": "Menu pour afficher les informations d'un serveur TS3"
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     },
@@ -1282,16 +1282,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Menu choix de thème",
-            "english": "Change theme menu"
+            "english": "Change theme menu",
+            "french": "Menu choix de thème"
         },
         "description": {
-            "french": "Ce module vous laisse à disposition dans l'administration, un menu permettant de switcher entre vos thèmes.",
-            "english": "This module lets you provided in the administration, a menu to switch between your themes."
+            "english": "This module lets you provided in the administration, a menu to switch between your themes.",
+            "french": "Ce module vous laisse à disposition dans l'administration, un menu permettant de switcher entre vos thèmes."
         },
         "genre": {
-            "french": "Administration",
-            "english": "Administration"
+            "english": "Administration",
+            "french": "Administration"
         },
         "thumbnail": ""
     },
@@ -1309,16 +1309,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Editeur TinyMCE",
-            "english": "TinyMCE Editor"
+            "english": "TinyMCE Editor",
+            "french": "Editeur TinyMCE"
         },
         "description": {
-            "french": "Ce module est un éditeur de texte de type WYSIWYG",
-            "english": "This is a WYSIWYG editor"
+            "english": "This is a WYSIWYG editor",
+            "french": "Ce module est un éditeur de texte de type WYSIWYG"
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -1336,16 +1336,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "UrlUpdater",
-            "english": "UrlUpdater"
+            "english": "UrlUpdater",
+            "french": "UrlUpdater"
         },
         "description": {
-            "french": "Ce module permet de mettre en place les redirections nécessaires automatiquement en cas de mise à jour majeure de PHPBoost.",
-            "english": "This module permits to put automatic redirections when upgrading PHPBoost to a new major version."
+            "english": "This module permits to put automatic redirections when upgrading PHPBoost to a new major version.",
+            "french": "Ce module permet de mettre en place les redirections nécessaires automatiquement en cas de mise à jour majeure de PHPBoost."
         },
         "genre": {
-            "french": "Outils",
-            "english": "Tools"
+            "english": "Tools",
+            "french": "Outils"
         },
         "thumbnail": ""
     },
@@ -1363,16 +1363,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Vidéos",
-            "english": "Videos"
+            "english": "Videos",
+            "french": "Vidéos"
         },
         "description": {
-            "french": "Ce module permet d'ajouter des vidéos depuis des liens de fichiers ou de plateforme, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des fichiers (niveau d'autorisation configurable). Gestion complète de la date de parution.",
-            "english": "This module allows to add videos on your website, from files or platform links with category management (and access level). Users can submit files/platform links (configurable authorization level). Complete management of publication date."
+            "english": "This module allows to add videos on your website, from files or platform links with category management (and access level). Users can submit files/platform links (configurable authorization level). Complete management of publication date.",
+            "french": "Ce module permet d'ajouter des vidéos depuis des liens de fichiers ou de plateforme, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des fichiers (niveau d'autorisation configurable). Gestion complète de la date de parution."
         },
         "genre": {
-            "french": "Media",
-            "english": "Media"
+            "english": "Media",
+            "french": "Media"
         },
         "thumbnail": ""
     },
@@ -1390,16 +1390,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Liens Web",
-            "english": "Web Links"
+            "english": "Web Links",
+            "french": "Liens Web"
         },
         "description": {
-            "french": "Ce module vous procure un système de liens web (liens en dur), avec gestion des catégories (et niveau d'accès). Les membres peuvent proposer des liens (niveau d'autorisation configurable).",
-            "english": "This module provides you a weblink system, with category management (and access level). Member can submit weblink (configurable authorization level)."
+            "english": "This module provides you a weblink system, with category management (and access level). Member can submit weblink (configurable authorization level).",
+            "french": "Ce module vous procure un système de liens web (liens en dur), avec gestion des catégories (et niveau d'accès). Les membres peuvent proposer des liens (niveau d'autorisation configurable)."
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     },
@@ -1417,16 +1417,16 @@
         "hexa_icon": "",
         "php_version": "",
         "name": {
-            "french": "Wiki",
-            "english": "Wiki"
+            "english": "Wiki",
+            "french": "Wiki"
         },
         "description": {
-            "french": "Ce module permet de créer un wiki, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des documents (niveau d'autorisation configurable). Gestion complète de la date de parution.",
-            "english": "This module allows to set a wiki , with category management (and access level). Users can submit documents (configurable authorization level). Complete management of publication date."
+            "english": "This module allows to set a wiki , with category management (and access level). Users can submit documents (configurable authorization level). Complete management of publication date.",
+            "french": "Ce module permet de créer un wiki, avec gestion des catégories (et niveau d'accès). Les utilisateurs peuvent proposer des documents (niveau d'autorisation configurable). Gestion complète de la date de parution."
         },
         "genre": {
-            "french": "Communauté",
-            "english": "Community"
+            "english": "Community",
+            "french": "Communauté"
         },
         "thumbnail": ""
     }
