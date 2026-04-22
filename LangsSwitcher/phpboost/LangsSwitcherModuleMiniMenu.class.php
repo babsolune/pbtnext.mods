@@ -44,6 +44,15 @@ class LangsSwitcherModuleMiniMenu extends ModuleMiniMenu
 
 		$item_id = AppContext::get_request()->get_string('switchlang', '');
 		$query_string = preg_replace('`switchlang=[^&]+`u', '', QUERY_STRING);
+
+		$current_url = AppContext::get_request()->get_site_url() . $_SERVER['SCRIPT_NAME'] . '?' . rtrim($query_string, '&');
+        $parsed = parse_url($current_url);
+        if (isset($parsed['path']) && TextHelper::strpos($parsed['path'], '/modules') !== false)
+        {
+            $parsed['path'] = str_replace('/modules', '', $parsed['path']);
+            $current_url = $this->build_url($parsed); 
+        }
+
 		if (!empty($item_id))
 		{
 			$item = LangsManager::get_lang($item_id);
@@ -54,7 +63,7 @@ class LangsSwitcherModuleMiniMenu extends ModuleMiniMenu
 					$user->update_lang($item->get_id());
 				}
 			}
-			AppContext::get_response()->redirect(trim(HOST . SCRIPT . (!empty($query_string) ? '?' . $query_string : '')));
+			AppContext::get_response()->redirect(trim($current_url));
 		}
 		else
 			$item = LangsManager::get_lang($user->get_locale());
@@ -63,9 +72,6 @@ class LangsSwitcherModuleMiniMenu extends ModuleMiniMenu
 		$view->add_lang(LangLoader::get_all_langs('LangsSwitcher'));
 		MenuService::assign_positions_conditions($view, $this->get_block());
 		Menu::assign_common_template_variables($view);
-
-		$current_url = AppContext::get_request()->get_site_url() . $_SERVER['SCRIPT_NAME'] . '?' . rtrim($query_string, '&');
-
 		$view->put_all([
 			'C_HAS_PICTURE'  => $item->get_configuration()->has_picture(),
 			'DEFAULT_ITEM'   => UserAccountsConfig::load()->get_default_lang(),
@@ -86,6 +92,17 @@ class LangsSwitcherModuleMiniMenu extends ModuleMiniMenu
 
 		return $view->render();
 	}
+
+    private function build_url($parsed)
+    {
+        $scheme   = isset($parsed['scheme']) ? $parsed['scheme'] . '://' : '';
+        $host     = isset($parsed['host']) ? $parsed['host'] : '';
+        $port     = isset($parsed['port']) ? ':' . $parsed['port'] : '';
+        $path     = isset($parsed['path']) ? $parsed['path'] : '';
+        $query    = isset($parsed['query']) ? '?' . $parsed['query'] : '';
+        $fragment = isset($parsed['fragment']) ? '#' . $parsed['fragment'] : '';
+        return "$scheme$host$port$path$query$fragment";
+    }
 
 	public function display()
 	{
