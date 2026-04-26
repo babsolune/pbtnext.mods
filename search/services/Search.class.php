@@ -385,7 +385,7 @@ class Search
 
 	/**
 	 * Builds modules search conditions on the meta-information cache
-	 * @param mixed[string] $modules An array with modules ids keys and values
+	 * @param mixed[] $modules An array with modules ids keys and values
 	 * containings modules specifics options.
 	 * @return string The condition to put in a query WHERE clause
 	 */

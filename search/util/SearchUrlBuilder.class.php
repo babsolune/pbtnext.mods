@@ -16,7 +16,7 @@ class SearchUrlBuilder
 	 */
 	public static function documentation()
 	{
-		return new Url (ModulesManager::get_module('search')->get_configuration()->get_documentation());
+		return new Url(ModulesManager::get_module('search')->get_configuration()->get_documentation());
 	}
 }
 ?>

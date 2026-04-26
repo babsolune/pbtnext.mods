@@ -9,6 +9,8 @@
  * @author      Arnaud GENET <elenwii@phpboost.com>
 */
 
+define('PATH_TO_ROOT', '../..');
+
 //------------------------------------------------------------------- Language
 require_once(PATH_TO_ROOT . '/kernel/begin.php');
 $lang = LangLoader::get_all_langs('search');
@@ -27,12 +29,12 @@ $view->add_lang($lang);
 //--------------------------------------------------------------------- Params
 $request = AppContext::get_request();
 
-$search = $request->get_value('q', '');
-$unsecure_search = stripslashes($request->get_value('q', ''));
-$search_in = $request->get_postvalue('search_in', 'all');
+$search           = $request->get_value('q', '');
+$unsecure_search  = stripslashes($request->get_value('q', ''));
+$search_in        = $request->get_postvalue('search_in', 'all');
 $selected_modules = $request->get_postvalue('searched_modules', '');
 $selected_modules = !empty($selected_modules) ? explode(',', $selected_modules) : [];
-$query_mode = (bool)$request->get_postvalue('query_mode', true);
+$query_mode       = (bool)$request->get_postvalue('query_mode', true);
 
 if ($search_in !== 'all')
 {
@@ -48,15 +50,15 @@ else if (count($selected_modules) == 1)
 define('TITLE', $lang['search.module.title']);
 
 require_once(PATH_TO_ROOT . '/kernel/header.php');
-$view->assign_vars(Array(
+$view->assign_vars([
 	'C_SIMPLE_SEARCH' => $search_in == 'all',
 	'MODULE_MODE'     => $search_in,
 	'TEXT_SEARCHED'   => $unsecure_search,
-	'U_FORM_VALID'    => url(PATH_TO_ROOT . '/modules/search/search.php#results'),
-));
+	'U_FORM_VALID'    => url(TPL_PATH_TO_ROOT . '/search/search.php#results'),
+]);
 
 //------------------------------------------------------------- Other includes
-require_once(PATH_TO_ROOT . '/modules/search/search.inc.php');
+require_once(ModulesManager::get_module_path('search') . '/search.inc.php');
 
 //----------------------------------------------------------------------- Main
 $config = SearchConfig::load();

@@ -180,7 +180,7 @@ class SearchConfig extends AbstractConfigData
 
 	/**
 	 * Returns the configuration.
-	 * @return SearchModuleConfig
+	 * @return SearchConfig
 	 */
 	public static function load()
 	{

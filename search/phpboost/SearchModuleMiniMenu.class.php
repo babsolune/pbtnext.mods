@@ -52,8 +52,8 @@ class SearchModuleMiniMenu extends ModuleMiniMenu
 
 		$view->put_all(Array(
 			'SEARCH_TEXT' => !empty($search) ? stripslashes($search) : '',
-			'U_FORM_VALID'      => url(TPL_PATH_TO_ROOT . '/modules/search/search.php#results'),
-			'U_ADVANCED_SEARCH' => url(TPL_PATH_TO_ROOT . '/modules/search/search.php'),
+			'U_FORM_VALID'      => url(TPL_PATH_TO_ROOT . '/search/search.php#results'),
+			'U_ADVANCED_SEARCH' => url(TPL_PATH_TO_ROOT . '/search/search.php'),
 		));
 
 		return $view->render();
